@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dolanantictactoe/static/css/main.0a4d3167.chunk.css",
+    "main.js": "/Dolanantictactoe/static/js/main.30b37653.chunk.js",
+    "main.js.map": "/Dolanantictactoe/static/js/main.30b37653.chunk.js.map",
+    "runtime-main.js": "/Dolanantictactoe/static/js/runtime-main.f453546d.js",
+    "runtime-main.js.map": "/Dolanantictactoe/static/js/runtime-main.f453546d.js.map",
+    "static/css/2.06689f82.chunk.css": "/Dolanantictactoe/static/css/2.06689f82.chunk.css",
+    "static/js/2.60d7d632.chunk.js": "/Dolanantictactoe/static/js/2.60d7d632.chunk.js",
+    "static/js/2.60d7d632.chunk.js.map": "/Dolanantictactoe/static/js/2.60d7d632.chunk.js.map",
+    "index.html": "/Dolanantictactoe/index.html",
+    "static/css/2.06689f82.chunk.css.map": "/Dolanantictactoe/static/css/2.06689f82.chunk.css.map",
+    "static/css/main.0a4d3167.chunk.css.map": "/Dolanantictactoe/static/css/main.0a4d3167.chunk.css.map",
+    "static/js/2.60d7d632.chunk.js.LICENSE.txt": "/Dolanantictactoe/static/js/2.60d7d632.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f453546d.js",
+    "static/css/2.06689f82.chunk.css",
+    "static/js/2.60d7d632.chunk.js",
+    "static/css/main.0a4d3167.chunk.css",
+    "static/js/main.30b37653.chunk.js"
+  ]
+}
